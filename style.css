@@ -1,0 +1,64 @@
+h1 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+p {
+  font-family: "Droid Serif", serif;
+}
+
+
+body {
+    text-align: center;
+}
+
+	
+		
+p {
+     color: red;
+}
+
+p {
+     color: rgb(255,0,0);
+}
+
+p {
+     color: #FF0000;
+}
+
+footer{
+	text-transform: uppercase;
+	padding-left:20px; 
+	padding-right:20px;
+	background-color: #0D2C40;s
+	text-color:white;
+	font-size: 14px;
+	letter-spacing: .08em
+	font-weight:500
+
+}
+.message {
+	float:right;
+	font-family: "Raleway";
+}
+
+
+.name{
+	float: left;
+	font-family: "Raleway";
+	color: #F15B31;
+	font-weight: 700;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+a:hover {
+  border-color: white;
+  border-bottom: 2px solid transparent;
+}
